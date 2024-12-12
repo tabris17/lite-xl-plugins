@@ -4,7 +4,7 @@
       "id": "meta_lite_ide",
       "mod_version": "3",
       "type": "meta",
-      "version": "1.0",
+      "version": "1.0.1",
       "description": "A metapackage that contains some useful plugins to implement a lightweight IDE.",
       "dependencies": {
         "plugin_manager": {},
