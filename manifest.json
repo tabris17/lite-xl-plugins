@@ -15,6 +15,7 @@
         "formatter": {},
         "gitblame": {},
         "gitdiff_highlight": {},
+        "indentguide": {},
         "lfautoinsert": {},
         "lintplus": {},
         "minimap": {},
